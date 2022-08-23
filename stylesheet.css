@@ -1,10 +1,10 @@
-.title {
+h2 {
+    color: red;
+}
+.subtitle {
     color: blue;
 }
-.subtitle{
-    color: green;
-}
-#contact-us{
-    color:purple;
-}
 
+#services{
+    color: greenyellow;
+}
