@@ -1,4 +1,4 @@
-h2 {
+h2:hover {
     color: red;
 }
 .subtitle {
@@ -7,4 +7,23 @@ h2 {
 
 #services{
     color: greenyellow;
+}
+li:first-child {
+    color: steelblue;
+}
+
+li:last-child {
+    color: orange;
+}
+
+li:nth-child(3){
+    color: gold;
+}
+
+#google-link:link{
+    color:aqua;
+}
+
+#google-link:visited{
+    color:red;
 }
